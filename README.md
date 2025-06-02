@@ -5,10 +5,25 @@
 
 ## 🚀 About Me  
 
-•⁠  ⁠🔭 Currently seeking *Data Engineering opportunities* (US-based or global)
-•⁠  ⁠💼 6+ years of industry experience across *Data Engineering, Cloud Platforms, and Operations*
-•⁠  ⁠🎯 Specialized in *Azure Data Engineering, Databricks, Data Pipelines, and ETL Workflows*
-•⁠  ⁠📖 Actively pursuing certifications and building expertise in *modern data architectures*
+•⁠  ⁠🔭 Currently seeking *Data Engineering opportunities* (US-based or global).
+
+•⁠  ⁠💼 6+ years of industry experience across *Data Engineering, Cloud Platforms, and Operations*.
+
+•⁠  ⁠🎯 Specialized in *Azure Data Engineering, Databricks, Data Pipelines, and ETL Workflows*.
+
+---
+
+## 💼 Professional Experience  
+  
+•⁠  ⁠⁠***Associate Manager - Data Engineering*** at Tredence Analytics (2024 - Current)  
+    - Built scalable data pipelines using Azure Data Factory and Databricks, implementing Medallion architecture for enterprise platforms.
+
+•⁠  ***Analyst - Data Engineering*** at Deloitte (2022 - 2023)  
+    - Developed and maintained ETL pipelines for financial reporting solutions, ensuring data integrity and timely delivery.
+
+•⁠  ***Content Test Associate & Workforce Management Specialist*** at Amazon (2017 - 2021)  
+    - Managed workforce reporting and operational analytics for performance metrics and staffing optimization.  
+    - Conducted certification testing for third-party Alexa voice applications (skills) for functionality and compliance before public release.
 
 ---
 
@@ -26,12 +41,13 @@
 ## 📜 Certifications  
 
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/ashishkumargupta-3940/credentials/9eb23e3dfe190b24?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20DP--203-Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified Data Engineer Associate DP-203" />
-  </a>
-  <br>
+  
   <a href="https://credentials.databricks.com/c2ac8038-1ba9-48a1-bade-019135431457#acc.D9yV5S6W" target="_blank">
     <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Data Engineer Associate" />
+  </a>
+<br>
+  <a href="https://learn.microsoft.com/en-us/users/ashishkumargupta-3940/credentials/9eb23e3dfe190b24?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20DP--203-Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified Data Engineer Associate DP-203" />
   </a>
 </p>
 
@@ -49,13 +65,6 @@
 
 ---
 -->
-
-## 📫 Contact  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ashish-kumar-gupta4/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto : ashishj2.gupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ## 📫 Contact  
 
