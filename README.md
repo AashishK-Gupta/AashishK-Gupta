@@ -23,6 +23,20 @@
 
 ---
 
+## 📜 Certifications  
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/users/ashishkumargupta-3940/credentials/9eb23e3dfe190b24?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20DP--203-Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified Data Engineer Associate DP-203" />
+  </a>
+  <br>
+  <a href="https://credentials.databricks.com/c2ac8038-1ba9-48a1-bade-019135431457#acc.D9yV5S6W" target="_blank">
+    <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Data Engineer Associate" />
+  </a>
+</p>
+
+---
+<!--
 ## 📈 GitHub Stats  
 
 <p align="center">
@@ -34,17 +48,20 @@
 </p>
 
 ---
+-->
 
 ## 📫 Contact  
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ashish-kumar-gupta4/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="ashishj2.gupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto : ashishj2.gupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<!--
 ---
 
 ## 📝 Latest Projects  
 
 •⁠  ⁠📊 *Project Name 1:* Short description of what this project does
 •⁠  ⁠📊 *Project Name 2:* Another project description
+-->
